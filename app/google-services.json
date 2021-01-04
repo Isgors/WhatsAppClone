@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030320684652",
+    "project_id": "whatsclone-26c7b",
+    "storage_bucket": "whatsclone-26c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030320684652:android:6df1b0a7b65ed89d2da249",
+        "android_client_info": {
+          "package_name": "com.igordesouza.whatsclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030320684652-emar7f7ekvmjrunve527r716h51qn0hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiR8Mq4cZ_NULQu_wLPvl3WUWq5TXDvC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030320684652-emar7f7ekvmjrunve527r716h51qn0hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
